@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mark4353/reactprapi/static/css/main.870c9913.css",
+    "main.js": "/Mark4353/reactprapi/static/js/main.15fa83b4.js",
+    "index.html": "/Mark4353/reactprapi/index.html",
+    "main.870c9913.css.map": "/Mark4353/reactprapi/static/css/main.870c9913.css.map",
+    "main.15fa83b4.js.map": "/Mark4353/reactprapi/static/js/main.15fa83b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.870c9913.css",
+    "static/js/main.15fa83b4.js"
+  ]
+}
